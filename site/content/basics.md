@@ -6,6 +6,8 @@ draft: false
 
 # Basics of Golang
 
+* [Learn and Use Templates in Go](https://levelup.gitconnected.com/learn-and-use-templates-in-go-aa6146b01a38)
+* [Understanding Golang and Goroutines](https://medium.com/better-programming/understanding-golang-and-goroutines-72ac3c9a014d)
 * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
 * [How a Go Program Compiles down to Machine Code](https://medium.com/better-programming/how-a-go-program-compiles-down-to-machine-code-e4532dc8b8ca)
 * [The Simplest Way to Handle Timeouts in Golang](https://medium.com/swlh/the-simplest-way-to-handle-timeouts-in-golang-11e371dc6188)
