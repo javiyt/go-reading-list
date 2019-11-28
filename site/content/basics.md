@@ -6,6 +6,7 @@ draft: false
 
 # Basics of Golang
 
+* [Security assessment techniques for Go projects](https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/)
 * [Learn and Use Templates in Go](https://levelup.gitconnected.com/learn-and-use-templates-in-go-aa6146b01a38)
 * [Understanding Golang and Goroutines](https://medium.com/better-programming/understanding-golang-and-goroutines-72ac3c9a014d)
 * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
