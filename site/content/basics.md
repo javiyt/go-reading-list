@@ -6,6 +6,8 @@ draft: false
 
 # Basics of Golang
 
+* [Finalizers](https://medium.com/a-journey-with-go/go-finalizers-786df8e17687)
+* [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
 * [Security assessment techniques for Go projects](https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/)
 * [Learn and Use Templates in Go](https://levelup.gitconnected.com/learn-and-use-templates-in-go-aa6146b01a38)
 * [Understanding Golang and Goroutines](https://medium.com/better-programming/understanding-golang-and-goroutines-72ac3c9a014d)
