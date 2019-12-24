@@ -6,6 +6,8 @@ draft: false
 
 # Patterns / Project structure articles
 
+* [Go: Dependency injection with Wire](https://scene-si.org/2019/12/11/dependency-injection-with-wire/)
+* [Go Hex Arch](https://www.joeldholmes.com/post/go-hex-arch/)
 * [Trying Clean Architecture on Golang](https://medium.com/hackernoon/golang-clean-archithecture-efd6d7c43047)
 * [Using Service Objects in Go](https://itnext.io/using-service-objects-in-go-d899dc599335)
 * [Beautify your Golang project](https://itnext.io/beautify-your-golang-project-f795b4b453aa)
