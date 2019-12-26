@@ -6,6 +6,8 @@ draft: false
 
 # Basics of Golang
 
+* [Polymorphism with Golang Interfaces](https://medium.com/@mayank.gupta.6.88/polymorphism-with-golang-interfaces-b2f58a05b221)
+* [Golang Object-Oriented Programming](https://medium.com/better-programming/golang-object-oriented-programming-f2e6448b8f24)
 * [Finalizers](https://medium.com/a-journey-with-go/go-finalizers-786df8e17687)
 * [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
 * [Security assessment techniques for Go projects](https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/)
