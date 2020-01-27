@@ -6,6 +6,8 @@ draft: false
 
 # Basics of Golang
 
+* [Inlined defers in Go](https://rakyll.org/inlined-defers/)
+* [Understanding Golang’s Defer function](https://medium.com/@mayank.gupta.6.88/understanding-golangs-defer-function-cd262e8cf54c)
 * [Polymorphism with Golang Interfaces](https://medium.com/@mayank.gupta.6.88/polymorphism-with-golang-interfaces-b2f58a05b221)
 * [Golang Object-Oriented Programming](https://medium.com/better-programming/golang-object-oriented-programming-f2e6448b8f24)
 * [Finalizers](https://medium.com/a-journey-with-go/go-finalizers-786df8e17687)

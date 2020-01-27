@@ -6,6 +6,7 @@ draft: false
 
 # Tools and libraries every go developer should know
 
+* [Getting started with Go kit](https://sagikazarmark.hu/blog/getting-started-with-go-kit/)
 * [Using Makefile(s) for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 * [How to Do Tracing in Go Microservice?](https://medium.com/swlh/distributed-tracing-for-go-microservice-with-opentracing-1fc1aec76b3e)
 * [REST over gRPC with grpc-gateway for Go](https://medium.com/swlh/rest-over-grpc-with-grpc-gateway-for-go-9584bfcbb835)
