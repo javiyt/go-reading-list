@@ -6,6 +6,8 @@ draft: false
 
 # Patterns / Project structure articles
 
+* [Graceful shutdown of a TCP server in Go](https://eli.thegreenplace.net/2020/graceful-shutdown-of-a-tcp-server-in-go/)
+* [1 Year of Event Sourcing and CQRS](https://medium.com/@teivah/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
 * [Go: Dependency injection with Wire](https://scene-si.org/2019/12/11/dependency-injection-with-wire/)
 * [Go Hex Arch](https://www.joeldholmes.com/post/go-hex-arch/)
 * [Trying Clean Architecture on Golang](https://medium.com/hackernoon/golang-clean-archithecture-efd6d7c43047)
