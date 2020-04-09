@@ -6,6 +6,9 @@ draft: false
 
 # Patterns / Project structure articles
 
+* [The Flyweight Pattern in Go](https://medium.com/better-programming/the-flyweight-pattern-in-go-a0712764195a)
+* [Dependency Injection and Testability in a Go Webservice](https://medium.com/@fsufitch/dependency-injection-and-testability-in-a-go-webservice-a91d0e5469dd)
+* [GRPC for production(Go)](https://towardsdatascience.com/grpc-for-production-go-2f62f334824)
 * [Graceful shutdown of a TCP server in Go](https://eli.thegreenplace.net/2020/graceful-shutdown-of-a-tcp-server-in-go/)
 * [1 Year of Event Sourcing and CQRS](https://medium.com/@teivah/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
 * [Go: Dependency injection with Wire](https://scene-si.org/2019/12/11/dependency-injection-with-wire/)

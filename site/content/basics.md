@@ -6,6 +6,8 @@ draft: false
 
 # Basics of Golang
 
+* [Go Pointers: When to Use Pointers](https://medium.com/@kent.rancourt/go-pointers-when-to-use-pointers-4f29256ddff3)
+* [Go Quirks](https://blog.sbstp.ca/go-quirks/)
 * [Inlined defers in Go](https://rakyll.org/inlined-defers/)
 * [Understanding Golang’s Defer function](https://medium.com/@mayank.gupta.6.88/understanding-golangs-defer-function-cd262e8cf54c)
 * [Polymorphism with Golang Interfaces](https://medium.com/@mayank.gupta.6.88/polymorphism-with-golang-interfaces-b2f58a05b221)
