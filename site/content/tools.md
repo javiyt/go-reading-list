@@ -6,6 +6,8 @@ draft: false
 
 # Tools and libraries every go developer should know
 
+* [How to Improve Code Quality With an Automatic Check in Go](https://medium.com/better-programming/how-to-improve-code-quality-with-an-automatic-check-in-go-d18a5eb85f09)
+* [How to use Diago to diagnose CPU and memory usage in Go programs](https://remy.io/blog/how-to-use-diago-to-diagnose-cpu-and-memory-usage-in-go-programs/)
 * [Getting started with Go kit](https://sagikazarmark.hu/blog/getting-started-with-go-kit/)
 * [Using Makefile(s) for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 * [How to Do Tracing in Go Microservice?](https://medium.com/swlh/distributed-tracing-for-go-microservice-with-opentracing-1fc1aec76b3e)
