@@ -6,6 +6,7 @@ draft: false
 
 # Tools and libraries every go developer should know
 
+* [The Complete Guide to Profiling Your Code](https://hackernoon.com/go-the-complete-guide-to-profiling-your-code-h51r3waz)
 * [How to Improve Code Quality With an Automatic Check in Go](https://medium.com/better-programming/how-to-improve-code-quality-with-an-automatic-check-in-go-d18a5eb85f09)
 * [How to use Diago to diagnose CPU and memory usage in Go programs](https://remy.io/blog/how-to-use-diago-to-diagnose-cpu-and-memory-usage-in-go-programs/)
 * [Getting started with Go kit](https://sagikazarmark.hu/blog/getting-started-with-go-kit/)
