@@ -6,6 +6,7 @@ draft: false
 
 # Golang testing articles
 
+* [Refactoring for better testability](https://developer20.com/refactoring-for-better-testability/)
 * [Integration Testing in Go: Part II - Set-up and Writing Tests](https://www.ardanlabs.com/blog/2019/10/integration-testing-in-go-set-up-and-writing-tests.html)
 * [Go: Fuzz Testing in Go](https://medium.com/a-journey-with-go/go-fuzz-testing-in-go-deb36abc971f)
 * [Testing database interactions using Go](https://medium.com/@romanyx90/testing-database-interactions-using-go-d9512b6bb449)
