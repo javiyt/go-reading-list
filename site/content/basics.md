@@ -6,6 +6,7 @@ draft: false
 
 # Basics of Golang
 
+* [The ecosystem of the Go programming language](https://henvic.dev/posts/go/)
 * [Go Pointers: When to Use Pointers](https://medium.com/@kent.rancourt/go-pointers-when-to-use-pointers-4f29256ddff3)
 * [Go Quirks](https://blog.sbstp.ca/go-quirks/)
 * [Inlined defers in Go](https://rakyll.org/inlined-defers/)
