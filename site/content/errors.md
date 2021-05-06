@@ -6,6 +6,7 @@ draft: false
 
 # Errors in go articles
 
+* [Go errors with additional details](https://romanyx90.medium.com/go-errors-with-additional-details-66873577f3a9)
 * [Designing errors with Go 1.13](https://tech.xing.com/designing-errors-with-go-1-13-81692537457)
 * [Panic and Recover in Golang](https://ednsquare.com/story/learn-go-panic-and-recover-in-golang------1HSVNg)
 * [Migrating pkg/errors to Go 1.13 errors](https://mycodesmells.com/post/migrating-pkg-errors-to-go-113-errors)
