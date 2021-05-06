@@ -6,6 +6,7 @@ draft: false
 
 # Basics of Golang
 
+* [The Ultimate Guide to JSON in Go](https://qvault.io/golang/json-golang/)
 * [The ecosystem of the Go programming language](https://henvic.dev/posts/go/)
 * [Go Pointers: When to Use Pointers](https://medium.com/@kent.rancourt/go-pointers-when-to-use-pointers-4f29256ddff3)
 * [Go Quirks](https://blog.sbstp.ca/go-quirks/)

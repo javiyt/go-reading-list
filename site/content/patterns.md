@@ -6,6 +6,7 @@ draft: false
 
 # Patterns / Project structure articles
 
+* [Using Service Objects in Go](https://itnext.io/using-service-objects-in-go-d899dc599335)
 * [How I Organize Structs in Go Projects](https://www.dudley.codes/posts/2021.02.23-golang-struct-organization/)
 * [The Flyweight Pattern in Go](https://medium.com/better-programming/the-flyweight-pattern-in-go-a0712764195a)
 * [Dependency Injection and Testability in a Go Webservice](https://medium.com/@fsufitch/dependency-injection-and-testability-in-a-go-webservice-a91d0e5469dd)
