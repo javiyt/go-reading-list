@@ -5497,10 +5497,10 @@ httpxy@^0.5.4:
   resolved "https://registry.yarnpkg.com/httpxy/-/httpxy-0.5.5.tgz#250363163cc95858dc36233bb08bf9c98a55faba"
   integrity sha512-uDjmnPyp1q4Sgzf3w+J/Fc6UqcCEj0x4Wjp7OqK5dGhNeDgpyrAmnS6ey8QWrX3SWDon2DMKf9sBa5X9+CVyMA==
 
-hugo-bin@^0.162.0:
-  version "0.162.0"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.162.0.tgz#622bf2c8e2e7048caf8b8759af24aa5c978e9f76"
-  integrity sha512-NEZ7u9deM4YIXp9OCfh5t1nmEkHmh5Eajt8zTqBh8h8XA0a39wHsJkZTJmlSkvVZC0cWv/s4J3oDSjUkcGsJAA==
+hugo-bin@^0.163.0:
+  version "0.163.0"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.163.0.tgz#f1638b5aca42c70017f2efde312e114184f7f2f0"
+  integrity sha512-iQ6f1NxeC1JISvDx1ZY2aTTJqN65tTXeAYZ9wCoRErdhHIEJ3fD7ab6IzHqzY1cH0gN1wuAsTeFFcWJU9kl6fg==
   dependencies:
     "@xhmikosr/bin-wrapper" "^14.5.1"
     "@xhmikosr/decompress-pkg" "^0.1.1"
